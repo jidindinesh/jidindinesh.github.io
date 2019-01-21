@@ -1,2 +1,3 @@
-# jidindinesh.github.io
-http://jidindinesh.github.io
+# Neophyte's Machine Learning Blog
+
+![](img/blog.png)
