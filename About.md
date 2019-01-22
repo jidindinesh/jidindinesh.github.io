@@ -1,4 +1,6 @@
 
+![picture](img/picture.jpg)
+
 Hey! How you doing?<br/>This is Jidin, a self motivated CS undergrad making diligent progess in the field of Machine Learning. <br/> I find Deep Learning, Reinforcement Learning and Computer Vision particularly interesting. <br/> [I enjoy travelling and clicking pictures.](https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA) 💖
 
 
