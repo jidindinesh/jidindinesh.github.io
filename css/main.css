@@ -102,7 +102,7 @@ img::-moz-selection {
   /* background: #F5F5F5; */
   background: rgb(255, 255, 255);
   border-bottom: 1px solid #f9d2d2;
-  border-top: 5px solid #e01f1f;
+  border-top: 5px solid #f33636;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font: 400 16px/1.6 "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
