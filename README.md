@@ -1,3 +1,3 @@
-# A Neophyte's Machine Learning Blog
+Machine Learning Blog
 
-![](img/blog.png)
+
