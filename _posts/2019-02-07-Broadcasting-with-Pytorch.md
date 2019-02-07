@@ -4,4 +4,4 @@ title: Broadcasting with Pytorch
 subtitle: Demystifying how tensors flow.
 ---
 
-![](https://ibb.co/ZBWnT0C)
+![](https://i.ibb.co/qNkt1vw/Pytorchv-Tf.jpg)
