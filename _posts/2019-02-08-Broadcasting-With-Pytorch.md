@@ -8,11 +8,11 @@ subtitle: Demystifying how tensors flow.
 
 I heard about **Broadcasting** for the first time in Lesson 9 of Jeremy Howard's [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml). Jeremy went on and on about how important Broadcasting was...
 
-*The most important programming concept taught in this course and possibly the most important programming concept you will ever need to build machine learning algorithms.*
+ > *The most important programming concept taught in this course and possibly the most important programming concept you will ever need to build machine learning algorithms.*
 
-*Very few people in DataScience or Machine Learning community understand broadcasting.*
+> *Very few people in DataScience or Machine Learning community understand broadcasting.*
 
-*If you get good at Broadcasting, you will have this super useful skill that very very few people have.*
+> *If you get good at Broadcasting, you will have this super useful skill that very very few people have.*
 
 These wise words should be enough to pull you through to the end of the article.
 
