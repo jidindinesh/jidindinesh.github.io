@@ -62,3 +62,5 @@ Is this your answer? 👇
 Just as before we stretched or broadcasted one tensor to match the shape of the other, here we've stretched both *a* and *b* to match a common shape, and the result is a two-dimensional array! The geometry of these examples is visualized in the following figure (Credits: Jake VanderPlas) :
 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/broadcasting.png)
+
+*The light boxes represent the broadcasted values: again, this extra memory is not actually allocated in the course of the operation, but it can be useful conceptually to imagine that it is.*
