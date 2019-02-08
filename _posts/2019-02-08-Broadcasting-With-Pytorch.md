@@ -8,11 +8,11 @@ subtitle: Demystifying how tensors flow.
 
 I heard about **Broadcasting** for the first time in Lesson 9 of Jeremy Howard's [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml). Jeremy went on and on about how important Broadcasting was...
 
->*The most important programming concept taught in this course and possibly the most important programming concept you will ever need to build machine learning algorithms.*
+*The most important programming concept taught in this course and possibly the most important programming concept you will ever need to build machine learning algorithms.*
 
->*Very few people in DataScience or Machine Learning community understand broadcasting.*
+*Very few people in DataScience or Machine Learning community understand broadcasting.*
 
->*If you get good at Broadcasting, you will have this super useful skill that very very few people have.*
+*If you get good at Broadcasting, you will have this super useful skill that very very few people have.*
 
 These wise words should be enough to pull you through to the end of the article.
 
@@ -35,6 +35,7 @@ The first solution that comes intuitively is that the operation is simply using 
 
 
 From Numpy documentation:
+
 The term broadcasting describes how numpy treats arrays with different shapes during arithmetic operations. Subject to certain constraints, the smaller array is “broadcast” across the larger array so that they have compatible shapes. Broadcasting provides a means of vectorizing array operations so that looping occurs in C instead of Python. It does this without making needless copies of data and usually leads to efficient algorithm implementations.
 
 ![](/img/1..PNG)
@@ -95,7 +96,7 @@ If two tensors x, y are “broadcastable”, the resulting tensor size is calcul
 
 Here are a few tensors to truly make sense of these "rules".
 
-![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/img/example.PNG)
+![](/img/example.PNG)
 
 From Numpy Documentation:
 
@@ -105,7 +106,7 @@ From Numpy Documentation:
 
 ![](/img/example_error.PNG)
 
-This is the last piece of understanding how *"tensors flow" in Pytorch"*. We all know that addition is commutative, x added to y is same as y added to x. Then why does Pytorch's inplace addition function(add followed by an _) do this ? 👇
+This is the last piece of understanding how *"tensors flow" in Pytorch*. We all know that addition is commutative, x added to y is same as y added to x. Then why does Pytorch's inplace addition function(add followed by an _) do this ? 👇
 
 ![](/img/inplace.PNG)
 
