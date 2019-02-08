@@ -55,6 +55,10 @@ Try wrapping your head around this trickier example :
 
 Got your answer??
 
-Is this your answer?
+Is this your answer? 👇
 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/tricky.PNG)
+
+Just as before we stretched or broadcasted one tensor to match the shape of the other, here we've stretched both *a* and *b* to match a common shape, and the result is a two-dimensional array! The geometry of these examples is visualized in the following figure (Credits: Jake VanderPlas) :
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/broadcasting.png)
