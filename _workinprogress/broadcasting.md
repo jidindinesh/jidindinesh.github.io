@@ -48,3 +48,13 @@ Another example of interaction between a vector and a tensor :
 The element wise addition takes place as if **x** was broadcasted as follows to match the dimensions of **y**
 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/4.PNG)
+
+Try wrapping your head around this trickier example :
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/tricky%20(2).PNG)
+
+Got your answer??
+
+Is this your answer?
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/tricky.PNG)
