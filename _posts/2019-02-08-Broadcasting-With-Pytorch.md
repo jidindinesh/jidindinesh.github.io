@@ -20,7 +20,7 @@ Two tensors must have the same shape in order to perform element-wise operations
 
 * Using symbolic operations
 
-![](/master/img/symbolic.PNG)
+![](/img/symbolic.PNG)
 
 * Using built in tensor object methods
 
