@@ -97,6 +97,14 @@ Here are a few tensors to truly make sense of these "rules".
 
 From Numpy Documentation:
 
-![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/rsz_screenshot_135.png)
+<img src="https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/Capture.PNG" width="500" height="400">
+
+
 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/example_error.PNG)
+
+This is the last piece of understanding how *"tensors flow" in Pytorch"*. We all know that addition is commutative, x added to y is same as y added to x. Then why does Pytorch's inplace addition function(add followed by an _) do this ? 👇
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/inplace.PNG)
+
+**In-place operations do not allow the in-place tensor(x in first case and y in second case) to change shape as a result of the broadcast. Now we know why the inplace addition operation broke in the second case{tensor y was broadcasted to (3,3,7)}.**
