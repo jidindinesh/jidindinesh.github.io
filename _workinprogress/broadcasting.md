@@ -13,3 +13,6 @@ I heard about *Broadcasting* for the first time in Lesson 9 of Jeremy Howard's [
 "Very few people in DataScience or Machine Learning community understand broadcasting. "
 
 "If you get good at Broadcasting, you will have this super useful skill that very very few people have. "
+
+Two tensors must have the same shape in order to perform element-wise operations on them and arithmetic operations are element-wise operations. Arithmetic operations on tensors with scalar values can be done in two ways: 
+* Using symbolic operations
