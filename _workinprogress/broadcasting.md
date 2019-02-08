@@ -14,6 +14,8 @@ I heard about *Broadcasting* for the first time in Lesson 9 of Jeremy Howard's [
 
 "If you get good at Broadcasting, you will have this super useful skill that very very few people have. "
 
+These wise words should be enough to pull you through to the end of the article.
+
 Two tensors must have the same shape in order to perform element-wise operations on them and arithmetic operations are element-wise operations. Arithmetic operations on tensors with scalar values can be done in two ways: 
 
 * Using symbolic operations
@@ -23,3 +25,6 @@ Two tensors must have the same shape in order to perform element-wise operations
 * Using built in tensor object methods
 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/builtintensorobjmethods.PNG)
+
+Both of these options work the same. We can see that in both cases, the scalar 2, is applied to each element with the corresponding arithmetic operation. Math seems all good here but these examples break the rule that *element-wise operations operate on tensors of the same shape.*
+Scalars are Rank-0 tensors, which means they have no shape, and our tensor T is a rank-2 tensor of shape 2 x 2. So how does this fit in? Let’s break it down.
