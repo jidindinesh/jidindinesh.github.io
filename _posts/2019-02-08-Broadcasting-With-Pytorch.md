@@ -30,7 +30,9 @@ Both of these options work the same. We can see that in both cases, the scalar 2
 Scalars are Rank-0 tensors, which means they have no shape, and our tensor **T** is a rank-2 tensor of shape 2 x 2. So how does this fit in? Let’s break it down.
 
 The first solution that comes intuitively is that the operation is simply using the single scalar value and operating on each element within the tensor. This logic kind of works however, it’s a bit misleading, and it breaks down in more general situations where we’re not using a scalar. To think about these operations differently, we need to introduce the concept of tensor broadcasting or broadcasting.
-![](/img/broadcasting%20microphone%20mic.jpg)
+
+<img src="/img/broadcasting%20microphone%20mic.jpg" width="500" height="400">
+
 
 From Numpy documentation:
 The term broadcasting describes how numpy treats arrays with different shapes during arithmetic operations. Subject to certain constraints, the smaller array is “broadcast” across the larger array so that they have compatible shapes. Broadcasting provides a means of vectorizing array operations so that looping occurs in C instead of Python. It does this without making needless copies of data and usually leads to efficient algorithm implementations.
