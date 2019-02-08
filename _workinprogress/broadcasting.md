@@ -79,3 +79,14 @@ If two tensors x, y are “broadcastable”, the resulting tensor size is calcul
 
 * If the number of dimensions of x and y are not equal,prepend 1 to the dimensions of the tensor with fewer dimensions to make them equal length.
 * Then, for each dimension size, the resulting dimension size is the max of the sizes of x and y along that dimension.
+
+**Rules of Broadcasting**
+* Rule 0: Each tensor has at least one dimension(trivial)
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/0tensor.PNG)
+
+* Rule 1: If the two arrays differ in their number of dimensions, the shape of the one with fewer dimensions is padded with ones on its leading (left) side.
+
+* Rule 2: If the shape of the two arrays does not match in any dimension, the array with shape equal to 1 in that dimension is stretched to match the other shape.
+
+* Rule 3: If in any dimension the sizes disagree and neither is equal to 1, an error is raised.
