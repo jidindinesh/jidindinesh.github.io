@@ -98,31 +98,43 @@ Here are a few tensors to truly make sense of these "rules".
 From Numpy Documentation:
 
 A      (2d array):  5 x 4
+
 B      (1d array):      1
+
 Result (2d array):  5 x 4
 
 A      (2d array):  5 x 4
+
 B      (1d array):      4
+
 Result (2d array):  5 x 4
 
 A      (3d array):  15 x 3 x 5
+
 B      (3d array):  15 x 1 x 5
+
 Result (3d array):  15 x 3 x 5
 
 A      (3d array):  15 x 3 x 5
+
 B      (2d array):       3 x 5
+
 Result (3d array):  15 x 3 x 5
 
 A      (3d array):  15 x 3 x 5
+
 B      (2d array):       3 x 1
+
 Result (3d array):  15 x 3 x 5
 
 Here are examples of shapes that do not broadcast:
 
 A      (1d array):  3
+
 B      (1d array):  4 # trailing dimensions do not match
 
 A      (2d array):      2 x 1
+
 B      (3d array):  8 x 4 x 3 # second from last dimensions mismatched
 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/example_error.PNG)
