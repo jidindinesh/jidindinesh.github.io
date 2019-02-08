@@ -31,3 +31,13 @@ Scalars are Rank-0 tensors, which means they have no shape, and our tensor T is 
 
 The first solution that may come to mind is that the operation is simply using the single scalar value and operating on each element within the tensor. This logic kind of works. However, it’s a bit misleading, and it breaks down in more general situations where we’re not using a scalar. To think about these operations differently, we need to introduce the concept of tensor broadcasting or broadcasting.
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/broadcasting%20microphone%20mic.jpg)
+
+From Numpy documentation:
+The term broadcasting describes how numpy treats arrays with different shapes during arithmetic operations. Subject to certain constraints, the smaller array is “broadcast” across the larger array so that they have compatible shapes. Broadcasting provides a means of vectorizing array operations so that looping occurs in C instead of Python. It does this without making needless copies of data and usually leads to efficient algorithm implementations.
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/1..PNG)
+
+We can think of the scalar b being stretched during the arithmetic operation into an array with the same shape as a. The new elements in b are simply copies of the original scalar. The stretching analogy is only conceptual. NumPy is smart enough to use the original scalar value without actually making copies, so that broadcasting operations are as memory and computationally efficient as possible.
+
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/2,.PNG)
+
