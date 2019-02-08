@@ -64,3 +64,15 @@ Just as before we stretched or broadcasted one tensor to match the shape of the 
 ![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/broadcasting.png)
 
 *The light boxes represent the broadcasted values: again, this extra memory is not actually allocated in the course of the operation, but it can be useful conceptually to imagine that it is.*
+
+**Step 1: Determining if the tensors are compatible**
+
+When operating on two arrays, Pytorch compares their shapes element-wise. It starts with the trailing(left most) dimensions, and works its way forward. Two dimensions are compatible when :
+* they are equal, or
+* one of them is 1
+
+If these conditions are not met, an exception is thrown, indicating that the arrays have incompatible shapes. 
+
+**Step 2: Determining the shape of the resulting tensor**
+
+If two tensors x, y are “broadcastable”, the resulting tensor size is calculated as follows:
