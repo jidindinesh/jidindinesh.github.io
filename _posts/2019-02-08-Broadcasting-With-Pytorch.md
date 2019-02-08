@@ -28,10 +28,10 @@ Two tensors must have the same shape in order to perform element-wise operations
 
 ![](/img/builtintensorobjmethods.PNG)
 
-Both of these options work the same. We can see that in both cases, the scalar 2, is applied to each element with the corresponding arithmetic operation. Math here seems fine but these examples break the rule that **element-wise operations operate on tensors of the same shape.**
+Both of these options work the same. We can see that in both cases, the scalar, is applied to each element with the corresponding arithmetic operation. Math here seems fine but these examples break the rule that **element-wise operations operate on tensors of the same shape.**
 Scalars are Rank-0 tensors, which means they have no shape, and our tensor **T** is a rank-2 tensor of shape 2 x 2. So how does this fit in? Let’s break it down.
 
-The first solution that comes intuitively is that the operation is simply using the single scalar value and operating on each element within the tensor. This logic kind of works however, it’s a bit misleading, and it breaks down in more general situations where we’re not using a scalar. To think about these operations differently, we need to introduce the concept of tensor broadcasting or broadcasting.
+The first solution that comes intuitively is that the operation is simply using the single scalar value and operating on each element within the tensor. This logic kind of works however, it’s a bit misleading and it breaks down in more general situations where we’re not using a scalar. To think about these operations differently, we need to introduce the concept of tensor broadcasting or broadcasting.
 
 <img src="/img/broadcasting%20microphone%20mic.jpg" width="300" height="300">
 
@@ -82,7 +82,7 @@ If these conditions are not met, an exception is thrown, indicating that the arr
 
 If two tensors x, y are “broadcastable”, the resulting tensor size is calculated as follows:
 
-* If the number of dimensions of x and y are not equal,prepend 1 to the dimensions of the tensor with fewer dimensions to make them equal length.
+* If the number of dimensions of x and y are not equal, prepend 1 to the dimensions of the tensor with fewer dimensions to make them equal length.
 * Then, for each dimension size, the resulting dimension size is the max of the sizes of x and y along that dimension.
 
 **Rules of Broadcasting**
