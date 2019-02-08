@@ -76,3 +76,6 @@ If these conditions are not met, an exception is thrown, indicating that the arr
 **Step 2: Determining the shape of the resulting tensor**
 
 If two tensors x, y are “broadcastable”, the resulting tensor size is calculated as follows:
+
+* If the number of dimensions of x and y are not equal,prepend 1 to the dimensions of the tensor with fewer dimensions to make them equal length.
+* Then, for each dimension size, the resulting dimension size is the max of the sizes of x and y along that dimension.
