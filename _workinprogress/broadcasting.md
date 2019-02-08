@@ -28,3 +28,6 @@ Two tensors must have the same shape in order to perform element-wise operations
 
 Both of these options work the same. We can see that in both cases, the scalar 2, is applied to each element with the corresponding arithmetic operation. Math seems all good here but these examples break the rule that *element-wise operations operate on tensors of the same shape.*
 Scalars are Rank-0 tensors, which means they have no shape, and our tensor T is a rank-2 tensor of shape 2 x 2. So how does this fit in? Let’s break it down.
+
+The first solution that may come to mind is that the operation is simply using the single scalar value and operating on each element within the tensor. This logic kind of works. However, it’s a bit misleading, and it breaks down in more general situations where we’re not using a scalar. To think about these operations differently, we need to introduce the concept of tensor broadcasting or broadcasting.
+![](https://github.com/jidindinesh/jidindinesh.github.io/blob/master/assets/broadcasting%20microphone%20mic.jpg)
