@@ -106,7 +106,7 @@ From Numpy Documentation:
 <img src="/img/Capture.PNG" width="290" height="290">
 
 
-<img src="/img/example_error.PNG" width="290" height="290">
+<img src="/img/example_error.PNG" width="300" height="300">
 
 
 This is the last piece of understanding how *"tensors flow" in Pytorch*. We all know that addition is commutative, x added to y is same as y added to x. Then why does Pytorch's inplace addition function(add followed by an _) do this ? 👇
