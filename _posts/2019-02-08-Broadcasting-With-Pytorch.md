@@ -22,7 +22,7 @@ Two tensors must have the same shape in order to perform element-wise operations
 
 * Using symbolic operations
 
-<img src="/img/symbolic.PNG" width="300" height="300">
+<img src="/img/symbolic.PNG" width="290" height="290">
 
 * Using built in tensor object methods
 
@@ -52,7 +52,7 @@ Another example of interaction between a vector and a tensor :
 
 The element wise addition takes place as if **x** was broadcasted as follows to match the dimensions of **y**
 
-<img src="/img/4.PNG" width="300" height="300">
+<img src="/img/4.PNG" width="290" height="290">
 
 Try wrapping your head around this trickier example :
 
@@ -66,7 +66,7 @@ Is this your answer? 👇
 
 Just as before we stretched or broadcasted one tensor to match the shape of the other, here we've stretched both *a* and *b* to match a common shape, and the result is a two-dimensional array! The geometry of these examples is visualized in the following figure (Credits: Jake VanderPlas) :
 
-<img src="/img/broadcasting.png" width="300" height="300">
+<img src="/img/broadcasting.png" width="290" height="290">
 
 *The light boxes represent the broadcasted values: again, this extra memory is not actually allocated in the course of the operation, but it can be useful conceptually to imagine that it is.*
 
@@ -98,20 +98,20 @@ If two tensors x, y are “broadcastable”, the resulting tensor size is calcul
 
 Here are a few tensors to truly make sense of these "rules".
 
-<img src="/img/example.PNG" width="300" height="300">
+<img src="/img/example.PNG" width="290" height="290">
 
 
 From Numpy Documentation:
 
-<img src="/img/Capture.PNG" width="300" height="300">
+<img src="/img/Capture.PNG" width="290" height="290">
 
 
-<img src="/img/example_error.PNG" width="300" height="300">
+<img src="/img/example_error.PNG" width="290" height="290">
 
 
 This is the last piece of understanding how *"tensors flow" in Pytorch*. We all know that addition is commutative, x added to y is same as y added to x. Then why does Pytorch's inplace addition function(add followed by an _) do this ? 👇
 
-<img src="/img/inplace.PNG" width="300" height="300">
+<img src="/img/inplace.PNG" width="290" height="290">
 
 **In-place operations do not allow the in-place tensor(x in first case and y in second case) to change shape as a result of the broadcast. Now we know why the inplace addition operation broke in the second case[tensor y was broadcasted to (3,3,7)].**
 
