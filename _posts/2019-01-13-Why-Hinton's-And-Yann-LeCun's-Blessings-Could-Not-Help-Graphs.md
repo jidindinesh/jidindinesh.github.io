@@ -58,5 +58,5 @@ Non Euclidean data has
 
 If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). 
 
-![](https://i.ibb.co/g7JFYFr/Screenshot-89.png)
 
+<img src="https://i.ibb.co/g7JFYFr/Screenshot-89.png" width="300" height="300">
