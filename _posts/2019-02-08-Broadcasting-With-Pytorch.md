@@ -3,7 +3,7 @@ layout: post
 title: Broadcasting with Pytorch
 subtitle: Demystifying how tensors flow.
 ---
-
+img {max-width:100%}
 ![](https://i.ibb.co/qNkt1vw/Pytorchv-Tf.jpg)
 
 I heard about **Broadcasting** for the first time in Lesson 9 of Jeremy Howard's [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml). Jeremy went on and on about how important Broadcasting was...
