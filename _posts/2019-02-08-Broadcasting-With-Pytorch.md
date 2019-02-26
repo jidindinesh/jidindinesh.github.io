@@ -52,7 +52,7 @@ Another example of interaction between a vector and a tensor :
 
 The element wise addition takes place as if **x** was broadcasted as follows to match the dimensions of **y**
 
-<img src="/img/4.PNG" width="290" height="290">
+<img src="/img/4.PNG" width="100%" height="100%">
 
 Try wrapping your head around this trickier example :
 
