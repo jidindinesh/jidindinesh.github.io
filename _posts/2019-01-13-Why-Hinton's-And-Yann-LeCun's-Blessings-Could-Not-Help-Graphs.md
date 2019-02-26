@@ -52,11 +52,11 @@ Non Euclidean data has
 
 #### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
 
-![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
+<img src="https://i.ibb.co/tCJ3j77/Screenshot-86.png" width="100%" height="100%">
 
 [Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning. Simple as that !
 
 If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). 
 
 
-<img src="https://i.ibb.co/g7JFYFr/Screenshot-89.png" width="300" height="300">
+<img src="https://i.ibb.co/g7JFYFr/Screenshot-89.png" width="100%" height="100%">
