@@ -106,12 +106,12 @@ From Numpy Documentation:
 <img src="/img/Capture.PNG" width="100%" height="100%">
 
 
-<img src="/img/rsz_example_error.png" width="100%" height="100%">
+<img src="/img/error.png" width="100%" height="100%">
 
 
 This is the last piece of understanding how *"tensors flow" in Pytorch*. We all know that addition is commutative, x added to y is same as y added to x. Then why does Pytorch's inplace addition function(add followed by an _) do this ? 👇
 
-<img src="/img/rsz_inplace.png" width="100%" height="100%">
+<img src="/img/rsz_inp.png" width="100%" height="100%">
 
 **In-place operations do not allow the in-place tensor(x in first case and y in second case) to change shape as a result of the broadcast. Now we know why the inplace addition operation broke in the second case[tensor y was broadcasted to (3,3,7)].**
 
