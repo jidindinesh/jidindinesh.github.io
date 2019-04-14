@@ -22,6 +22,6 @@ A self motivated Computer Science undergrad and an aspiring AI Research Engineer
 
 **Upcoming**
 
-[Presenting on Deep Bidirectional Transformers And Language Representation Models with BERT](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
+[Presenting on Deep Bidirectional Transformers And Language Representation Model with BERT](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
 
 <div style="margin: 150px;"></div>
