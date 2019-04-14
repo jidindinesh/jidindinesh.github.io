@@ -7,9 +7,9 @@
 
 Hi, I'm Jidin.
 
-A self motivated Computer Science undergrad and an aspiring AI Research Engineer . 
+A self motivated Computer Science undergrad and an aspiring AI Research Engineer. 
 
-Learning and exploring :
+**Learning and exploring :**
 
 * Unsupervised Learning
                 
@@ -21,7 +21,8 @@ Learning and exploring :
                 
 * Natural Language Processing
 
+**Upcoming**
 
-
+[Presenting on Deep Bidirectional Transformers And Language Representation Models with BERT](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
 
 <div style="margin: 150px;"></div>
