@@ -11,17 +11,17 @@ A self motivated Computer Science undergrad and an aspiring AI Research Engineer
 
 Learning and exploring :
 
-                * Unsupervised Learning
+* Unsupervised Learning
                 
-                * Deep Learning 
+* Deep Learning 
                 
-                * Computer Vision
+* Computer Vision
                 
-                * Reinforcement Learning
+* Reinforcement Learning
                 
-                * Natural Language Processing
+* Natural Language Processing
 
-I enjoy travelling and clicking pictures. 💖
+
 
 
 <div style="margin: 150px;"></div>
