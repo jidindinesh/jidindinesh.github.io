@@ -6,7 +6,6 @@
 
 
 Hi, I'm Jidin.
-
 A self motivated Computer Science undergrad and an aspiring AI Research Engineer. 
 
 **Learning and exploring :**
