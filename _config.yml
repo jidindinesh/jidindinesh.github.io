@@ -7,12 +7,6 @@
 url: "http://jidindinesh.github.io"
 
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://kootenpv.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Jidin Dinesh
 # Short description of your site
@@ -73,7 +67,6 @@ google_analytics: "UA-131823651-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-# timezone: "Europe/Amsterdam"
 markdown: kramdown
 
 kramdown:
