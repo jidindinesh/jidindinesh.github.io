@@ -7,9 +7,19 @@
 
 Hi, I'm Jidin.
 
-A self motivated CS undergrad making diligent progess in the field of Machine Learning. 
+A self motivated Computer Science undergrad and an aspiring AI Research Engineer . 
 
-Learning and exploring Unsupervised Learning, Deep Learning, Reinforcement Learning , Natural Language Processing and Computer Vision.
+Learning and exploring :
+
+                * Unsupervised Learning
+                
+                * Deep Learning 
+                
+                * Computer Vision
+                
+                * Reinforcement Learning
+                
+                * Natural Language Processing
 
 I enjoy travelling and clicking pictures. 💖
 
