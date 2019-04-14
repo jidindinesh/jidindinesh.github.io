@@ -14,8 +14,7 @@ url: "http://jidindinesh.github.io"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jidin|MachLearning
-
+title: Jidin Dinesh
 # Short description of your site
 description: MachLearning
 
@@ -30,7 +29,7 @@ navbar-links:
   #Experience: "Experience"
   #Education: "Education"
   #Projects: "Projects"
-  #About: "About"
+  About: "About"
   #Articles: "Medium"
 
 
