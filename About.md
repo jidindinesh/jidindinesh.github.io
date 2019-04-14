@@ -2,23 +2,18 @@
 
 ![Jidin Dinesh](/img/dp.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 
-
-
-
 Hi, I'm Jidin.
 A self motivated Computer Science undergrad and an aspiring AI Research Engineer. 
 
-**Learning and exploring :**
+**Interests :**
 
 * Unsupervised Learning
                 
 * Deep Learning 
-                
-* Computer Vision
-                
+
+* Generative Models
+
 * Reinforcement Learning
-                
-* Natural Language Processing
 
 **Upcoming**
 
