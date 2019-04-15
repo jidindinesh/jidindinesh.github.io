@@ -7,10 +7,10 @@ A self motivated Computer Science undergrad and an aspiring AI Research Engineer
 
 **Interests :**
 
-* Unsupervised Learning
-                
 * Deep Learning 
 
+* Deep Unsupervised Learning
+               
 * Generative Models
 
 * Reinforcement Learning
