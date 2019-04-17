@@ -2,9 +2,9 @@
 
 ![Jidin Dinesh](/img/dp.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 
-Hi, I'm Jidin - an aspiring AI Research Engineer .
+Hi, I'm Jidin.
 
-Undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) pursuing Computer Science And Engineering (2016-). 
+Junior Undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) pursuing Computer Science And Engineering. 
 
 **Interests :**
 
