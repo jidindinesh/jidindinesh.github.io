@@ -3,7 +3,7 @@
 ![Jidin Dinesh](/img/dp.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 
 Hi, I'm Jidin.
-I'm a self motivated Computer Science undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) and an aspiring AI Research Engineer. 
+I'm an undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) pursuing Computer Science And Engineering. 
 
 **Interests :**
 
