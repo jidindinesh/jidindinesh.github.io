@@ -4,7 +4,7 @@
 
 Hi, I'm Jidin.
 
-Junior Undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) pursuing Computer Science And Engineering. 
+Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE. 
 
 **Interests :**
 
