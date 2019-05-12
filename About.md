@@ -8,11 +8,11 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
 
 **Interests :**
 
-* Generative Models
+* Conditional Generative Models
 
 * Deep Unsupervised Learning
                
-* Adversarial Machine Learning
+* Adversarial Training
 
 * Deep Reinforcement Learning
 
