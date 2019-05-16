@@ -16,8 +16,10 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
 
 * Deep Reinforcement Learning
 
-**Upcoming**
+**Talks & Presentations**
 
-[Presenting on Deep Bidirectional Transformers And Language Representation Model with BERT](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
+* How NLP cracked Transfer Learning & BERT
+
+    [Slides](http://bit.do/eSvDp)
 
 <div style="margin: 150px;"></div>
