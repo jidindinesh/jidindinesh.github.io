@@ -56,7 +56,4 @@ Non Euclidean data has
 
 [Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning. Simple as that !
 
-If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). 
-
-
 <img src="https://i.ibb.co/g7JFYFr/Screenshot-89.png" width="100%" height="100%">
