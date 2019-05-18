@@ -14,7 +14,7 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
                
 * Adversarial Training
 
-* Deep Reinforcement Learning
+* Federated Learning
 
 **Talks & Presentations**
 
