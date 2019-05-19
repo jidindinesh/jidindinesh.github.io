@@ -6,15 +6,17 @@ Hi, I'm Jidin.
 
 Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE. 
 
-**Interests :**
+**Interests**
 
 * Conditional Generative Models
-
+  
 * Deep Unsupervised Learning
-               
-* Adversarial Training
 
 * Federated Learning
+
+* Interpretability of Neural Networks
+               
+* Adversarial Training
 
 **Talks & Presentations**
 
