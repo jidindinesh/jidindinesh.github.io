@@ -6,18 +6,6 @@ Hi, I'm Jidin.
 
 Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE. 
 
-**Interests**
-
-* Conditional Generative Models
-  
-* Deep Unsupervised Learning
-
-* Federated Learning
-
-* Interpretability of Neural Networks
-               
-* Adversarial Training
-
 **Talks & Presentations**
 
 * How NLP cracked Transfer Learning
