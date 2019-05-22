@@ -22,6 +22,6 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
 
 * How NLP cracked Transfer Learning
 
-    [Slides](http://bit.do/eSvDp)
+    [Youtube](https://www.youtube.com/watch?v=Qh5YNhI4S_M) [Slides](http://bit.do/eSvDp) 
 
 <div style="margin: 150px;"></div>
