@@ -20,8 +20,8 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
 
 **Talks & Presentations**
 
-* How NLP cracked Transfer Learning
+* How NLP cracked Transfer Learning | TWiML
 
-    [Youtube](https://www.youtube.com/watch?v=Qh5YNhI4S_M) [Slides](http://bit.do/eSvDp) 
+    [Youtube](https://www.youtube.com/watch?v=Qh5YNhI4S_M),  [Slides](http://bit.do/eSvDp) 
 
 <div style="margin: 150px;"></div>
