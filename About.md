@@ -22,6 +22,4 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
 
 * [How NLP cracked Transfer Learning](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
 
-  [Slides](http://bit.do/eSvDp) 
-
 <div style="margin: 150px;"></div>
