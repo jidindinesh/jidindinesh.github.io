@@ -39,7 +39,7 @@ author:
   #stackoverflow: 
   twitter: JidinDinesh
   google: "https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA"
-
+  linkedin: jidin-dinesh
 
 
 # Select which links to show in the footer
@@ -50,6 +50,7 @@ footer-links-active:
   twitter: true
   github: true
   stackoverflow: false
+  linkedin: true
 
 
 # How to display the link to the website in the footer
