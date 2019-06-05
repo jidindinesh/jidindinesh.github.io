@@ -20,6 +20,6 @@ Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE.
 
 **Talks & Presentations**
 
-* [How NLP cracked Transfer Learning](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
+* [How NLP cracked Transfer Learning](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/) | TWiML May Americas Meetup
 
 <div style="margin: 150px;"></div>
