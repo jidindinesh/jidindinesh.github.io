@@ -16,7 +16,7 @@ Hello there! I'm Jidin Dinesh, a junior undergrad at [Cochin University of Scien
 
 * Interpretability of Neural Networks
                
-* Adversarial Training
+* Robustness of Deep Learning
 
 **Talks & Presentations**
 
