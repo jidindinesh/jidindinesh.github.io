@@ -8,7 +8,7 @@ Hello there! I'm Jidin Dinesh, a junior undergrad at [Cochin University of Scien
 
 **Interests**
 
-* Conditional Generative Models
+* Deep Generative Models
   
 * Deep Unsupervised Learning
 
