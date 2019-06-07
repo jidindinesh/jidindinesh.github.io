@@ -2,9 +2,9 @@
 
 ![Jidin Dinesh](/img/dp.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 
-Hi, I'm Jidin.
-
-Junior Undergrad at [CUSAT](https://cusat.ac.in/) pursuing CSE. 
+Hello there! I'm Jidin Dinesh, a junior undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) majoring in             
+[Computer Science and Engineering](http://soe.cusat.ac.in/pages/division/div_cs.php).
+ 
 
 **Interests**
 
