@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Broadcasting with Pytorch
+title: Broadcasting in PyTorch
 subtitle: Demystifying how tensors flow.
 ---
 
