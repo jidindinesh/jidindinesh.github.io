@@ -18,6 +18,9 @@ Hello there! I'm Jidin Dinesh, a junior undergrad at [Cochin University of Scien
                
 * Robustness of Deep Learning
 
+**Recent News**
+* June 2019 : Selected for [4th Summer School on Machine Learning](http://cvit.iiit.ac.in/mlsummerschool2019/), IIIT Hyderabad
+
 **Talks & Presentations**
 
 * [How NLP cracked Transfer Learning](https://twimlai.com/meetups/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/) ¦ TWiML May Americas Meetup
