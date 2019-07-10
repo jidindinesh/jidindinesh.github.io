@@ -19,9 +19,8 @@ Hello there! I'm Jidin Dinesh, a senior undergrad at [Cochin University of Scien
 * Robustness of Deep Learning
 
 **Recent News**
-* June 2019 : Selected for [4th Summer School on Machine Learning](http://cvit.iiit.ac.in/mlsummerschool2019/), IIIT Hyderabad
+* June 2019 : Selected for [4th Summer School on Machine Learning](http://cvit.iiit.ac.in/mlsummerschool2019/), IIIT Hyderabad | [Twitterati](https://twitter.com/JidinDinesh/status/1147860847663861760)
               
-  [Twitterati](https://twitter.com/JidinDinesh/status/1147860847663861760)
 
 **Talks & Presentations**
 
