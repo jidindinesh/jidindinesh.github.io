@@ -10,7 +10,7 @@ url: "http://jidindinesh.github.io"
 # Name of website
 title: Jidin Dinesh
 # Short description of your site
-description: MachLearning
+# description: 
 
 # --- Navigation bar options --- #
 
@@ -33,24 +33,21 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Jidin Dinesh
+  twitter: JidinDinesh
   email: "flagship404@gmail.com"
   github: jidroid404
 
-  #stackoverflow: 
-  twitter: JidinDinesh
-  google: "https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA"
-  linkedin: in/jidin-dinesh
-
+  
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   google: true
-  email: true
   twitter: true
+  email: true
   github: true
   stackoverflow: false
-  linkedin: true
+  linkedin: false
 
 
 # How to display the link to the website in the footer
