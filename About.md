@@ -1,6 +1,6 @@
 
 
-![Jidin Dinesh](/img/dp.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
+![Jidin Dinesh](/img/pic.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 
 Hello there! I'm Jidin Dinesh, a senior undergrad at [Cochin University of Science And Technology](https://cusat.ac.in/) majoring in             
 [Computer Science and Engineering](http://soe.cusat.ac.in/pages/division/div_cs.php).
